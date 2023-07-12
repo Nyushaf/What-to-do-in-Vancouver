@@ -1,0 +1,96 @@
+body {
+    background: linear-gradient(to right, #CCD6A6, #FFFBE9);
+}
+h1 {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+}
+.header, .btn {
+    display: flex;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+    color: #678983;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+span {
+    font-weight: bold;
+}
+.dinner-container {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.container {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.par {
+    margin-left: 30px;
+    margin-right: 20px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+.button {
+    background-color: #CCD6A6;
+    padding: 20px;
+    margin: 5px;
+    border: 2px solid #678983;
+    border-radius: 20px;
+    width: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+#btn-one, #btn-four {
+    display: none;
+}
+.ansver-romantic-dinner, .ansver-boardGame, .ansver-movie, .ansver-cinema, .ansver-museum, .ansver-concerts, .ansver-restaurant-music, .ansver-restuarant, .ansver-hikes, .ansver-bike, .ansver-kayaking, .ansver-skiing, .ansver-parks {
+    display: none;
+}
+.parCon {
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+img {
+    margin: 10px;
+}
+hr {
+    width: 75%;
+}
+.note {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 0;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+.parBox {
+    font-size: 22px;
+}
+.boxSki {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+}
