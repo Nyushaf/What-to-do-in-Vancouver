@@ -51,13 +51,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="image/example.jpg" alt="screen">
+<img src="image/app.jpg" alt="screen">
 
 This project is created in the form of a game with luck and allows the user, with the help of answers to simple questions, to pick up events in the city of Vancouver.  
 Depending on the user's responses, the application produces a suitable result.
 
   
-<img src="image/running.jpg" alt="screen">
+<img src="image/result.jpg" alt="screen">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +95,7 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 
 Just choose the appropriate answer.
-<img src="image/css.jpg" alt="screen">
+<img src="image/answer.jpg" alt="screen">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
