@@ -83,7 +83,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/Nyushaf/What-to-do-in-Vancouver.git
    ```
-3. Change parametrs CSS
+3. Change parametrs [CSS](https://github.com/Nyushaf/What-to-do-in-Vancouver/blob/2fdd632b2d3cc046bced7d0544fcda8f4eabbcf3/style.css#L1-L96)
    <img src="image/css.jpg" alt="screen">
 <br />
   
